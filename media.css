@@ -1,0 +1,37 @@
+@media only screen and (min-device-width : 700px) and (max-device-width : 1200px) {
+	.gradient {
+		
+
+	}
+	header {
+
+	}
+
+	.studio p{
+    display: none;
+	}
+	.studio h2 {
+		display: none;
+	}
+	.one__room p, .two__room p, .one__room h2, .studio h2, .studio p, .two__room h2 {
+		display: none;
+	}
+	.advantages_photo {
+		width: 25%;
+
+	}
+.advantages p {display: none;}
+
+.studio, .one__room, .two__room {
+	
+}
+#section {
+	display: none; 
+}
+.home__description {
+	font-size: 10px;
+}
+.blyashka__and__text {
+	margin: 0px 0px 0px -250px;
+}
+}
